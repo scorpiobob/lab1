@@ -1,0 +1,13 @@
+Script started on 2017年03月14日 (週二) 17時17分33秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami;pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone g[Khttps;[K:\\[K[K//gih[Kthub .com\[K|[K/,[K<>y>o>u>r> >g>i>t> >h>u>b>[1P>[1P>[1P>[1P>g>u>[1P>[1P>h>u>b> >a>c>c>o>u>n>t>[C/lab1.git
+bash: your: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github .com/scorpiobob/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月14日 (週二) 17時19分44秒
